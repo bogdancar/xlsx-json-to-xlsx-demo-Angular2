@@ -1,5 +1,5 @@
-This is a demo project to show how to export on browser a JSON datasource to Excel xlsx file using the xlsx library to format the workbook and file-save.
-The project is created with angular-cli version 1.1.1.
+This is a demo project to show how to export on browser a JSON datasource to Excel xlsx file using the xlsx library to format the workbook and file-save library to push download the file into browser.
+The project is created with angular-cli version 1.1.0.
 The demo is implemented on app.component and will run out of the box with ng serve -o (angular/cli should be installed and npm install/yarn executed before).
 
 To creat a similar project follow the steps:
